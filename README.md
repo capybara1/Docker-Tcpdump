@@ -1,2 +1,3 @@
-# Docker-Tcpdump
-Sources for a docker image that provides tcpdump
+# Tcpdump for Docker
+
+Sources for a docker image providing tcpdump
